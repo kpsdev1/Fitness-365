@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Athiti&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+body {
+    font-family: Athiti, sans-serif;
+    font-weight: 400;
+}
+
+#logo {
+    font-family: Allerta Stencil, sans-serif;
+    text-transform: uppercase;
+}
