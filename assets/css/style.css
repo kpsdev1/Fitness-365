@@ -9,20 +9,81 @@
 body {
     font-family: Athiti, sans-serif;
     font-weight: 400;
+    background-color: #f0efed;
+
+}
+/* Navigation */
+
+#navbar li {
+    float: right;
+    list-style: none;
+    margin-right: 30px;
     
 }
+
+#navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 110%;
+       
+}
+
+#navbar a:hover {
+    border-bottom: 2px solid white;
+}
+
 
 /* logo */
 
 #logo {
     font-family: Allerta Stencil, sans-serif;
     text-transform: uppercase;
+    float: left;
+    color: rgb(233, 233, 233);
+    text-shadow: 4px 4px #161515;
+    font-size: 380%;
+    
+   
 }
 
 /* Hero image */
 
-/* #hero-image {
-        width: 100%;
-        height: 30%;
-        background: url('../images/heading-image.jpg')
-} */
+#hero {
+    max-width: 100%;
+    height: 500px;
+    background: url('../images/heading-image.jpg');
+    background-position: center;
+    background-size: cover;
+    
+    
+   
+}
+
+
+
+
+
+
+/* media queries */
+
+@media screen and (max-width: 600px){
+
+    #hero {
+        max-height: 150px;
+        background-position: center center;
+        background-size: cover;
+    }
+
+    
+
+    #navbar li {
+        clear: left;
+        
+        
+       
+
+    }
+    
+}
+    
