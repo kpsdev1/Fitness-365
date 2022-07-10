@@ -49,15 +49,15 @@ body {
 
 /* Hero image */
 
+
+
 #hero {
     max-width: 100%;
     height: 500px;
     background: url('../images/heading-image.jpg');
     background-position: center;
     background-size: cover;
-    
-    
-   
+       
 }
 
 /* text box on the home page */
@@ -66,7 +66,10 @@ body {
     width: 50%;
     height: 300px;
     border: 4px solid white;
-    margin: -50px auto; 
+    margin: -50px auto;  
+
+   
+
 }
 
 #text-box h2 {
@@ -130,6 +133,37 @@ body {
 
 }
 
+/*open hours on home page */
+
+#bottom {
+    margin-top: 100px;
+}
+
+
+
+#open-hours{
+    float: right;
+    width: 40%;
+    
+}
+
+#open-hours h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.hours-table {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+.hours-table td{
+    font-size: 1.2em;
+    padding: 8px;
+    
+  }
 
 
 
