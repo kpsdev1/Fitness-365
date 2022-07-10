@@ -133,18 +133,53 @@ body {
 
 }
 
-/*open hours on home page */
+/* bottom section of hom,e page */
 
 #bottom {
-    margin-top: 100px;
+    margin: 100px;
+    width: 80%;
 }
 
 
+/* membership at bottom of home page */
+ #membership {
+    float: left;
+    width: 40%;
+}
+
+#membership h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.membership-table {
+    width: 80%;
+    text-align: center;
+   
+    
+}
+.membership-table td{
+    font-size: 1.2em;
+    padding: 8px;
+    
+  }
+
+  #enquire-button{
+    text-align: center; 
+  }
+
+  button {
+    background-color: rgba(0, 0, 0, .5);
+    color: #efecec;
+    padding: 6px;
+    border-radius: 8px;
+  } 
+
+/*open hours on home page */
 
 #open-hours{
     float: right;
-    width: 40%;
-    
+    width: 40%;    
 }
 
 #open-hours h2 {
@@ -163,9 +198,38 @@ body {
     font-size: 1.2em;
     padding: 8px;
     
-  }
+  } 
 
 
+  /*horizontal lines */
+
+hr {
+    height: 3px;
+    background-color: white;
+}
+
+
+
+/* footer style -credit the love running project */
+footer {
+    clear: both;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 150%;
+    margin-top: 2%; 
+    padding: 5%; 
+    color: black;
+
+}
 
 /* media queries */
 @media screen and (max-width: 1250px){
