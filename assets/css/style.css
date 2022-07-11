@@ -49,8 +49,6 @@ body {
 
 /* Hero image */
 
-
-
 #hero {
     max-width: 100%;
     height: 500px;
@@ -66,7 +64,9 @@ body {
     width: 50%;
     height: 300px;
     border: 4px solid white;
-    margin: -50px auto;  
+    margin: 0 auto;
+    position: relative;
+    bottom: 50px;
 
    
 
@@ -133,87 +133,47 @@ body {
 
 }
 
-/* bottom section of hom,e page */
+/* Bottom section of the home page */
 
 #bottom {
-    margin: 100px;
+    background-color: #FAFAFA;
     width: 80%;
+    margin: 80px auto; 
+    border-left: 6px solid black;
+    border-right: 6px solid black;
 }
 
-
-/* membership at bottom of home page */
- #membership {
-    float: left;
-    width: 40%;
-}
-
-#membership h2 {
-    text-transform: uppercase;
-    text-align: center;
-}
-
-.membership-table {
-    width: 80%;
-    text-align: center;
-   
-    
-}
-.membership-table td{
+#bottom td{
     font-size: 1.2em;
-    padding: 8px;
-    
-  }
-
-  #enquire-button{
-    text-align: center; 
-  }
-
-  button {
-    background-color: rgba(0, 0, 0, .5);
-    color: #efecec;
     padding: 6px;
-    border-radius: 8px;
+   
   } 
 
-/*open hours on home page */
+ /*membership section on the home page */
 
+#membership {
+   float: right;
+   margin-right: 20%;
+   
+}
+#membership > h2{
+    margin-left: 30px;
+  }
+
+/*opening hours section on the home page */
 #open-hours{
-    float: right;
-    width: 40%;    
+  margin-left: 20%;
+ 
 }
 
-#open-hours h2 {
-    text-transform: uppercase;
-    text-align: center;
-}
+#open-hours > h2{
+    margin-left: 40px;
+  }
 
-.hours-table {
-    width: 80%;
-    text-align: center;
-    margin: 0 auto;
-    
-}
-
-.hours-table td{
-    font-size: 1.2em;
-    padding: 8px;
-    
-  } 
-
-
-  /*horizontal lines */
-
-hr {
-    height: 3px;
-    background-color: white;
-}
 
 
 
 /* footer style -credit the love running project */
-footer {
-    clear: both;
-}
 
 .social-networks {
     text-align: center;
@@ -235,7 +195,7 @@ footer {
 @media screen and (max-width: 1250px){
 
     #text-box {
-        margin: -30px auto; 
+        bottom: 30px;
     }
     
     #text-box h2 {
