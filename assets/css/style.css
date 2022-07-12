@@ -10,56 +10,47 @@ body {
     font-family: Athiti, sans-serif;
     font-weight: 400;
     background-color: #efecec;
-
 }
-/* Navigation */
 
+/* Navigation */
 #navbar li {
     float: right;
     list-style: none;
     margin-right: 30px;
-    
 }
 
 #navbar a {
     text-decoration: none;
     color: white;
     font-weight: 600;
-    font-size: 110%;
-       
+    font-size: 110%;  
 }
 
 #navbar a:hover {
     border-bottom: 2px solid white;
 }
 
-
 /* logo */
-
 #logo {
     font-family: Allerta Stencil, sans-serif;
     text-transform: uppercase;
     float: left;
-    color: rgb(233, 233, 233);
+    /* color: rgb(233, 233, 233); */
+    color: white;
     text-shadow: 4px 4px #161515;
     font-size: 380%;
-    
-   
 }
 
 /* Hero image */
-
 #hero {
     max-width: 100%;
     height: 500px;
     background: url('../images/heading-image.jpg');
     background-position: center;
     background-size: cover;
-       
 }
 
 /* text box on the home page */
-
 #text-box {
     width: 50%;
     height: 300px;
@@ -67,10 +58,8 @@ body {
     margin: 0 auto;
     position: relative;
     bottom: 50px;
-
-   
-
 }
+
 
 #text-box h2 {
     padding-top: 60px;
@@ -78,31 +67,35 @@ body {
     font-size: 2em;
 }
 
+
 #text-box p {
     width: 60%;
     margin: 10px auto;
     font-weight: 600;
     font-size: 1.1em;
-    text-align: center;
-        
+    text-align: center;      
 }
 
 /* coach section */
-
 #our-team {
     margin-top: 100px;
-
 }
+
+
 #our-team > h2 {
     text-align: center;
     font-size: 1.8em;
 }
 
+
 .container{
-    text-align: center;
+    text-align: center; 
     margin-top: 25px;
-    
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
 }
+
 
 .container > div img {
     width: 200px;
@@ -110,85 +103,62 @@ body {
     border-radius: 50%;
 }
 
+
 .container > div {
     width: 350px;
     height: 250px;
 }
 
-.left {
-    float: left;
-    margin-left: 100px;
-    
-}
-
-.center {
-    display: inline-block;
-    margin: 0 auto;
-
-}
-
-.right {
-    float: right;
-    margin-right: 100px;
-
-}
-
-/* Bottom section of the home page */
-
+/* Bottom section of the home page with membership and opening hours */
 #bottom {
     background-color: #FAFAFA;
     width: 80%;
     margin: 80px auto; 
     border-left: 6px solid black;
     border-right: 6px solid black;
+    display: flex;
+    justify-content: center;
 }
+
 
 #bottom td{
     font-size: 1.2em;
     padding: 6px;
-   
   } 
 
- /*membership section on the home page */
 
-#membership {
-   float: right;
-   margin-right: 20%;
-   
-}
-#membership > h2{
-    margin-left: 30px;
-  }
-
-/*opening hours section on the home page */
-#open-hours{
-  margin-left: 20%;
- 
-}
-
-#open-hours > h2{
-    margin-left: 40px;
+  .bottompage-container {
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
   }
 
 
+  .bottompage-container h2{
+    display: flex;
+    justify-content: center;
+  } 
 
 
-/* footer style -credit the love running project */
-
-.social-networks {
-    text-align: center;
+/* footer style -credit the love running project for help with this */
+.social-media {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 2%;
 }
 
-.social-networks > li {
-    display: inline;
+
+.social-media > li {
+    list-style: none;
 }
 
-.social-networks i {
+
+.social-media i {
     font-size: 150%;
-    margin-top: 2%; 
-    padding: 5%; 
-    color: black;
-
+    color: black; 
 }
 
 /* media queries */
@@ -206,36 +176,16 @@ body {
     #text-box p {
        font-size: 1em;
        width: 80%;
-        
-
     }
+
     /* coach section  */
     .container > div {
         width: 250px;
         height: 250px;
     }
     
-    .left {
-        float: left;
-        margin-left: 50px;
-        
-    }
-    
-    .center {
-        display: inline-block;
-        margin: 0 auto;
-    
-    }
-    
-    .right {
-        float: right;
-        margin-right: 50px;
-    
-    }
-    
-
+   
 }
-
 
 
 @media screen and (max-width: 600px){
@@ -247,13 +197,8 @@ body {
     }
 
     
-
     #navbar li {
         clear: left;
-        
-        
-       
-
     }
     
 }
