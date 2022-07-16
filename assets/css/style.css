@@ -224,6 +224,18 @@ body {
     border: 2px solid black;
 }
 
+/* our location heading and Phone number */
+.map-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+/* iframe ssection */
+iframe {
+    margin-bottom: 5%;
+}
+
 /* footer style -credit the love running project for help with this */
 .social-media {
     width: 60%;
