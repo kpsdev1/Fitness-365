@@ -236,6 +236,25 @@ iframe {
     margin-bottom: 5%;
 }
 
+/* Submission page    */
+.submission-page {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.submission-return {
+    color: black;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.submission-return:hover {
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+}
+
+
 /* footer style -credit the love running project for help with this */
 .social-media {
     width: 60%;
