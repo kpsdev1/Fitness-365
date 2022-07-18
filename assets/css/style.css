@@ -287,8 +287,7 @@ iframe {
 .image-grid {
     flex-basis: 33%;
     padding: 3px;
-    display: block;
-    box-sizing: border;
+    box-sizing: border-box;
 }
 
 
@@ -345,7 +344,7 @@ iframe {
 @media screen and (max-width: 764px){
     /* Gallery section */
     .image-grid {
-         flex-basis: 50%;
+         flex-basis: 100%;
    }
 }
 
