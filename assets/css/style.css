@@ -274,6 +274,23 @@ iframe {
     height: 15vh;
 }
 
+#pictures {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 5%;
+    clear: both;
+    
+}
+
+.image-grid {
+    flex-basis: 33%;
+    padding: 3px;
+    display: block;
+    box-sizing: border;
+}
+
 
 /* footer style -credit the love running project for help with this */
 .social-media {
@@ -318,8 +335,18 @@ iframe {
         width: 250px;
         height: 250px;
     }
-    
+    /* Gallery section */
+    .image-grid {
+        flex-basis: 50%;
+    }
    
+}
+
+@media screen and (max-width: 764px){
+    /* Gallery section */
+    .image-grid {
+         flex-basis: 50%;
+   }
 }
 
 
