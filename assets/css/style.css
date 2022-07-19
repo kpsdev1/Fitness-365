@@ -315,7 +315,7 @@ iframe {
 }
 
 /* media queries */
-@media screen and (max-width: 1250px) {
+@media screen and (max-width: 1280px) {
 
     #text-box {
         bottom: 30px;
@@ -342,6 +342,10 @@ iframe {
         flex-basis: 50%;
     }
 
+    .bottompage-container {
+        width: 80%;
+        
+      }
 }
 
 /* For tablets */
@@ -357,7 +361,7 @@ iframe {
 
     }
 
-    .container>div {
+    .container > div {
         width: 60%;
         margin-top: 60px;
 
