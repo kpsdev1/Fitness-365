@@ -386,26 +386,44 @@ iframe {
     #text-box p {
         font-size: 1em;
     }
+
+    /* Bottom section of the home page with membership and opening hours */
+    
+    .bottompage-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+   }
+
+
+   .open-hours {
+       margin-top: 5%;
+   }
+
 }
 
 
+/* For screens with a width less than 600px */
 @media screen and (max-width: 600px) {
 
+    /* Navigation   */
+    #navbar li {
+        clear: left;
+    }
+
+    /* Hero image section */
     #hero {
         max-height: 150px;
         background-position: center center;
         background-size: cover;
     }
 
-
-    #navbar li {
-        clear: left;
-    }
-    
+    /*  Text box section on the home page */
     #text-box {
         width: 80%;
     }
 
+    /* Coach section on the home page */
     .container > div {
         width: 80%;
         
