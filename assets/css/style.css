@@ -420,7 +420,7 @@ iframe {
 }
 
 
-/* For screens with a width less than 600px */
+/* For screens with a width less than 640px */
 @media screen and (max-width: 640px) {
 
     /* Navigation   */
