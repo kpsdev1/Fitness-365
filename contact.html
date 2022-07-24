@@ -6,32 +6,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/js/script.js" defer></script>
     <title>Fitness 365</title>
 </head>
 
 <body>
     <!-- Header section with logo and Navigation -->
     <header>
-        <a href="index.html">
-            <h1 id="logo">Fitness 365</h1>
-        </a>
-        <nav id="navbar">
+        <nav class="navbar">
             <ul>
-                <li>
-                    <a href="contact.html" class="active">Contact us</a>
-                </li>
-                <li>
-                    <a href="gallery.html">Gallery</a>
-                </li>
-                <li>
-                    <a href="index.html#bottom">Membership</a>
-                </li>
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-
+                <li class="navbar-logo"><a href="index.html">Fitness 365</a></li>
+                <li class="navbar-toggle"><i class="fas fa-bars"></i></li>
+                <li class="navbar-links"><a href="index.html">Home</a></li>
+                <li class="navbar-links"><a href="index.html#bottom">Membership</a></li>
+                <li class="navbar-links"><a href="gallery.html">Gallery</a></li>
+                <li class="navbar-links active"><a href="contact.html">Contact Us</a></li>
             </ul>
-        </nav>
+          </nav>
     </header>
     <!-- This is the div for where we add our hero image -->
     <div id="hero"></div>

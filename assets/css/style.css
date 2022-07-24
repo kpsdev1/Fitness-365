@@ -14,41 +14,7 @@ body {
     background-color: #efecec;
 }
 
-/* Navigation */
-/* #navbar li {
-    float: right;
-    list-style: none;
-    margin-right: 30px;
-}
-
-
-#navbar a {
-    text-decoration: none;
-    color: white;
-    font-weight: 600;
-    font-size: 110%;
-}
-
-
-#navbar a:hover {
-    border-bottom: 2px solid white;
-}
-
-
-.active {
-    border-bottom: 2px solid white;
-}
-
-/* logo */
-/* #logo {
-    font-family: Allerta Stencil, sans-serif;
-    text-transform: uppercase;
-    float: left;
-    color: white;
-    text-shadow: 4px 4px #161515;
-    font-size: 380%;
-} */
-
+/* Navigation  section*/
 .navbar ul {
     display: flex;
     width: 100%;
@@ -57,13 +23,13 @@ body {
     color: white;
 }
 
+
 .navbar li {
     list-style: none;
     margin-right: 30px;
     margin-top: 10px;
-    
-    
 }
+
 
 .navbar a {
     text-decoration: none;
@@ -71,6 +37,7 @@ body {
     font-weight: 600;
     font-size: 110%;  
 }
+
 
 .navbar-logo{
     flex: 1;
@@ -81,6 +48,7 @@ body {
     padding-bottom: 10px;
     padding-left: 10px;
 }
+
 
 .navbar-toggle {
     display: none;
@@ -389,8 +357,7 @@ iframe {
     }
 
     .bottompage-container {
-        width: 80%;
-        
+        width: 80%;  
       }
 }
 
@@ -404,13 +371,11 @@ iframe {
         align-items: center;
         width: 100%;
         margin-top: -140px;
-
     }
 
     .container > div {
         width: 60%;
         margin-top: 60px;
-
     }
 
 }
@@ -457,10 +422,6 @@ iframe {
 @media screen and (max-width: 640px) {
 
     /* Navigation   */
-    /* #navbar li {
-        clear: left;
-    } */
-
     .navbar ul {
         flex-wrap: wrap;
 
