@@ -255,6 +255,8 @@ body {
 /* iframe ssection */
 iframe {
     margin-bottom: 5%;
+    width: 100%;
+    height: 500px;
 }
 
 /* Submission page    */
@@ -325,6 +327,8 @@ iframe {
     font-size: 150%;
     color: black;
 }
+
+
 
 /* media queries */
 @media screen and (max-width: 1280px) {
