@@ -15,7 +15,7 @@ body {
 }
 
 /* Navigation */
-#navbar li {
+/* #navbar li {
     float: right;
     list-style: none;
     margin-right: 30px;
@@ -40,14 +40,60 @@ body {
 }
 
 /* logo */
-#logo {
+/* #logo {
     font-family: Allerta Stencil, sans-serif;
     text-transform: uppercase;
     float: left;
-    /* color: rgb(233, 233, 233); */
     color: white;
     text-shadow: 4px 4px #161515;
     font-size: 380%;
+} */
+
+.navbar ul {
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+    background-color: black;
+    color: white;
+}
+
+.navbar li {
+    list-style: none;
+    margin-right: 30px;
+    margin-top: 10px;
+    
+    
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 110%;  
+}
+
+.navbar-logo{
+    flex: 1;
+    font-family: Allerta Stencil, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    font-size: 200%;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.navbar-toggle {
+    display: none;
+}
+
+
+.navbar-links:hover a {
+    border-bottom: 2px solid white;
+}
+
+/* Active class add for nav */
+.active {
+    border-bottom: 2px solid white;
 }
 
 /* Hero image */
@@ -57,7 +103,7 @@ body {
     background: url('../images/heading-image.jpg');
     background-position: center;
     background-size: cover;
-}
+} */
 
 /* text box on the home page */
 #text-box {
@@ -408,11 +454,32 @@ iframe {
 
 
 /* For screens with a width less than 600px */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
 
     /* Navigation   */
-    #navbar li {
+    /* #navbar li {
         clear: left;
+    } */
+
+    .navbar ul {
+        flex-wrap: wrap;
+
+    }
+    .navbar-toggle {
+        display: block;
+    }
+
+    .navbar-logo {
+        font-size: 200%;
+    }
+    .navbar-links {
+        display: none;
+        width: 100%;
+        text-align: center;
+    }
+
+    .activate {
+        display: block;    
     }
 
     /* Hero image section */
