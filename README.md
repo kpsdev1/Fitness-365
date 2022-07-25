@@ -10,7 +10,7 @@ This is a website for Fitness 365, a gym based in the heart of Limerick City, Ir
 Below are the wireframes for Fitness 365 which were created using Balsamiq
 
 **Homepage**
-![This is a wireframe of the homepage](readme-docs/Homepage-wireframe.png)
+![This is a wireframe of the homepage](readme-docs/homepage-wireframe.png)
 
 **Gallery Page**
 ![This is a wireframe of the homepage](readme-docs/gallery-wireframe.png)
