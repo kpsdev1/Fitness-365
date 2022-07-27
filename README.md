@@ -10,7 +10,8 @@ This is a website for Fitness 365, a gym based in the heart of Limerick City, Ir
 Below are the wireframes for Fitness 365 which were created using Balsamiq.
 
  #### Homepage
- <br>
+   
+
 ![This is a wireframe of the homepage](readme-docs/Wireframes/homepage-wireframe.png)
 
 #### Gallery Page
@@ -42,7 +43,8 @@ The fonts that I used for the site were:
 ![Nav bar for desktop](readme-docs/images/nav.png)
 
  - **Nav bar on mobile and tablets**
- <br>
+   
+   
 ![Nav bar for mobile and tablet](readme-docs/images/nav-mobile.png)
 
 ### Hero Section
