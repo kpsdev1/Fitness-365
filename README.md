@@ -34,14 +34,19 @@ The fonts that I used for the site were:
 
 
 ### Navigation Bar
-The navigarion bar sits at the very top of each page, with the logo displayed at the left hand side, and the links to each page displayed at the left.
-When on a mobile or tablet the the links change to a burger menbu that when click shows all page links. I went with black background and white text to make the Nav bar stand out and be visible. The page you are currently on displays a white line underneath.
+- The navigarion bar sits at the very top of each page, with the logo displayed at the left hand side, and the links to each page displayed at the left.
+- When on a mobile or tablet the the links change to a burger menu that when click shows all page links. 
+- The colors used were a black background and white text to make the Nav bar stand out and be visible. 
+- The page you are currently on displays a white line underneath.
 
 ![Nav bar for desktop](readme-docs/images/nav.png)
 
-#### Nav bar on mobile
-![Nav bar for desktop](readme-docs/images/nav-mobile.png)
+ - **Nav bar on mobile and tablets**
+![Nav bar for mobile and tablet](readme-docs/images/nav-mobile.png)
 
+### Hero Section
+The hero section is found on the home and contact page directly below the Navigation bar, It is an image of a weighted barbell with a person holding it about to do a dead lift.
+![Hero Image](readme-docs/images/heroiimage.png)
 ## Technologies Used:
 
 ## Testing:
