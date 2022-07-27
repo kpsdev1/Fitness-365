@@ -42,6 +42,7 @@ The fonts that I used for the site were:
 ![Nav bar for desktop](readme-docs/images/nav.png)
 
  - **Nav bar on mobile and tablets**
+ (<br>)
 ![Nav bar for mobile and tablet](readme-docs/images/nav-mobile.png)
 
 ### Hero Section
