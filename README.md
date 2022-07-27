@@ -44,12 +44,39 @@ The fonts that I used for the site were:
 
  - **Nav bar on mobile and tablets**
    
-   
+
 ![Nav bar for mobile and tablet](readme-docs/images/nav-mobile.png)
 
-### Hero Section
-The hero section is found on the home and contact page directly below the Navigation bar, It is an image of a weighted barbell with a person holding it about to do a dead lift.
-![Hero Image](readme-docs/images/heroiimage.png)
+### Hero Image
+- The hero section is found on the home and contact page directly below the Navigation bar.
+- It is an image of a weighted barbell with a person holding it about to do a dead lift.
+- it spans the width of the device  and is 500px in heigh on desktop and 150px height on mobile and small devices.
+
+![Hero Image](readme-docs/images/hero-image.png)
+
+### Text Box area
+- It is a box with a white border and text in the middle.
+- The box floats into the hero about 50px on destop and 30px on smaller devices.
+  
+  ![Text box section on the homepage](readme-docs/images/text-box.png)
+
+### Coaches
+- This is the main section of the home page as it provides your infor mation about the coaches.
+- In this section we have images of the 3 coaches with a bit about them underneath.
+- On desktop they are displayed horizontially and on tablets and mobiles they are display vertically.
+  
+  ![coaches section of the homepage](readme-docs/images/coaches.png)
+
+### Membership and opening hours
+- We made a rectangle that stretches 80% of the page and is centered.
+- The background color is white and the text is black for contrast.
+- There is a black side border at each side to make it stand out and make it more visually appealing.
+- Here you can find the membership prices on the left hand side and the opening hours on the right.
+- The membership and opening hours section can be accessed from any page by clicking on the membership tab on the navigation bar.
+   
+   ![Membership and opeing hours on the home page.](readme-docs/images/membership.png)
+
+
 ## Technologies Used:
 
 ## Testing:
