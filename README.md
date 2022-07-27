@@ -58,14 +58,14 @@ The fonts that I used for the site were:
 - It is a box with a white border and text in the middle.
 - The box floats into the hero about 50px on destop and 30px on smaller devices.
   
-  ![Text box section on the homepage](readme-docs/images/text-box.png)
+![Text box section on the homepage](readme-docs/images/text-box.png)
 
 ### Coaches
 - This is the main section of the home page as it provides your infor mation about the coaches.
 - In this section we have images of the 3 coaches with a bit about them underneath.
 - On desktop they are displayed horizontially and on tablets and mobiles they are display vertically.
   
-  ![coaches section of the homepage](readme-docs/images/coaches.png)
+![coaches section of the homepage](readme-docs/images/coaches.png)
 
 ### Membership and opening hours
 - We made a rectangle that stretches 80% of the page and is centered.
@@ -74,7 +74,7 @@ The fonts that I used for the site were:
 - Here you can find the membership prices on the left hand side and the opening hours on the right.
 - The membership and opening hours section can be accessed from any page by clicking on the membership tab on the navigation bar.
    
-   ![Membership and opeing hours on the home page.](readme-docs/images/membership.png)
+![Membership and opeing hours on the home page.](readme-docs/images/membership.png)
 
 
 ## Technologies Used:
