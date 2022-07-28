@@ -127,6 +127,25 @@ The technologies that were used to create the site were:
 - - -
 
 ## Testing:
+To make sure the site was fully responsive and compatible with different browsers and device, I tested the site on Multiple devices as well as different browsers. I also ran my code through validators to makes ure there was no code or structural erros.
+
+### Devices the site was tested on
+Below is a list of devices which I test the site on and it was compatible with all:
+- IPhone 11
+- Samsung S8
+- Sansung A52
+- Ipad 7
+- Amazon Fire
+- Dell Inspiron
+- Dell S2722DC monitor  
+  
+### Web browsers the site was tested on  
+Below is a list of web browsers on which the site was tested and agin it was compatible with all:
+- Google Chrome
+- Microsoft Edge
+- Firefox
+- Safari
+
 
 ## Deployment:
 
