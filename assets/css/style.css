@@ -278,15 +278,9 @@ iframe {
 }
 
 
-/* Gallary page styles source syntax bytes on youtube */
-#gallary-body {
+/* Gallery page styles source syntax bytes on youtube */
+#gallery-body {
     background-color: rgba(0, 0, 0, 0.1);
-}
-
-
-#gallary-nav {
-    width: 100%;
-    height: 15vh;
 }
 
 
@@ -332,7 +326,7 @@ iframe {
 
 /* media queries */
 @media screen and (max-width: 1280px) {
-
+    /* Text box section on the homepage */
     #text-box {
         bottom: 30px;
     }

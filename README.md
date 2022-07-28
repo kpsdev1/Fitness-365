@@ -20,7 +20,7 @@ Below are the wireframes for Fitness 365 which were created using Balsamiq.
  #### Contact Page
 ![This is a wireframe of the homepage](readme-docs/Wireframes/contact-wireframe.png)
 
-* Just to mention, the membership tab, when clicked brings you to the section of the homepage that has the memembership information, hence why i did   not create wireframe for it.
+* Just to mention, the membership tab, when clicked brings you to the section of the homepage that has the membership information, hence why i did   not create wireframe for it.
 
 ### Color Scheme
  The color scheme for the website was kept simple with black, grey and white which allows for high contrast between the text and background color.
@@ -37,7 +37,7 @@ The fonts that I used for the site were:
 ### Navigation Bar
 - The navigarion bar sits at the very top of each page, with the logo displayed at the left hand side, and the links to each page displayed at the left.
 - When on a mobile or tablet the the links change to a burger menu that when click shows all page links. 
-- The colors used were a black background and white text to make the Nav bar stand out and be visible. 
+- The colors used were a black background and white text to make the Nav bar stand out and be clearly visible. 
 - The page you are currently on displays a white line underneath.
 
 ![Nav bar for desktop](readme-docs/images/nav.png)
@@ -50,12 +50,13 @@ The fonts that I used for the site were:
 ### Hero Image
 - The hero section is found on the home and contact page directly below the Navigation bar.
 - It is an image of a weighted barbell with a person holding it about to do a dead lift.
-- it spans the width of the device  and is 500px in heigh on desktop and 150px height on mobile and small devices.
+- It spans the width of the device  and is 500px in heigh on desktop and 150px height on mobile and small devices.
 
 ![Hero Image](readme-docs/images/hero-image.png)
 
 ### Text Box area
-- It is a box with a white border and text in the middle.
+- It is a transparent rectangular box with a white border and text in the middle.
+- It is one of the things that catches the users eye at first glance when they reach the page and it gives a little synopsis about the gym.
 - The box floats into the hero about 50px on destop and 30px on smaller devices.
   
 ![Text box section on the homepage](readme-docs/images/text-box.png)
@@ -76,6 +77,28 @@ The fonts that I used for the site were:
    
 ![Membership and opeing hours on the home page.](readme-docs/images/membership.png)
 
+### Footer
+- The footer is found at the bottom of each page and responsive for tablet and mobile too.
+- It displays 4 icons for the biggest scoial media platfoms today, Twitter, Facebook, Youtube and Instagram.
+- When any of the icons are clicked the social media site opens on a seperate Tab, this way the user still has the Fitness 365 website open so they can easily navigate back to it.  
+
+![Footer which is at the bottom of every page.](readme-docs/images/footer.png) 
+
+### Gallery
+- This page shows images of what the gym looks like, so the user can get a feel for what the gym has to offer and how it is layed out.
+- The gallery is one of the main pages people will check out to see what the gym looks like inside so we tried to display each section with equipment clearly.
+- On destops and laptops, images are 3 abreast, on device under 1280px they are 2 and on devices less thean 764px it is one image centered. 
+  
+![Galley photo](readme-docs/images/gallery.png)  
+
+ ### Contact Us page
+- On the contact us page we have a form that a user can use to contact the gym with any query they have.
+- The form takes the input for name, email , phone number and also the message that they want to submit.
+- Below the form you will find the gym location with on an embedded google maps, the user can also view the map on a seperat page by click view larger map, which will take them to google maps, where they can get directions if they want.
+  
+![contact form on the contact us page](readme-docs/images/form.png)  
+![embedded map with the location of the gym](readme-docs/images/map.png)  
+ 
 
 ## Technologies Used:
 
