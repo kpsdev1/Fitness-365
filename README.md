@@ -110,7 +110,18 @@ The fonts that I used for the site were:
 ![embedded map with the location of the gym](readme-docs/images/map.png)  
 - - - 
 
+## Future Features:
+In the future I would like to add a **Join now** button under the membership shection that when click will take th user to a secure payment page that allows the to purchse membership, This would need to be implemented through a secure third party payment site like paypal.
+I would also like to add a video to the gallery page that gives a virtual tour of the gym so that users can get get a better view of the gym and how it is layed out.
+- - -
+
 ## Technologies Used:
+The technologies that were used to create the site were:
+- HTML
+- CSS
+- JavaScript which was just used for the Navigation
+- Balsamiq was used to create the wireframes
+- Adobe Photoshop was used to resize some of the images
 
 ## Testing:
 
