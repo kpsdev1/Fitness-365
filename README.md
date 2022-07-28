@@ -43,9 +43,10 @@ The fonts that I used for the site were:
 ![Nav bar for desktop](readme-docs/images/nav.png)
 
  - **Nav bar on mobile and tablets**
-   
+ 
 
 ![Nav bar for mobile and tablet](readme-docs/images/nav-mobile.png)
+- - -
 
 ### Hero Image
 - The hero section is found on the home and contact page directly below the Navigation bar.
@@ -53,6 +54,7 @@ The fonts that I used for the site were:
 - It spans the width of the device  and is 500px in heigh on desktop and 150px height on mobile and small devices.
 
 ![Hero Image](readme-docs/images/hero-image.png)
+- - -
 
 ### Text Box area
 - It is a transparent rectangular box with a white border and text in the middle.
@@ -60,6 +62,7 @@ The fonts that I used for the site were:
 - The box floats into the hero about 50px on destop and 30px on smaller devices.
   
 ![Text box section on the homepage](readme-docs/images/text-box.png)
+- - -
 
 ### Coaches
 - This is the main section of the home page as it provides your infor mation about the coaches.
@@ -67,6 +70,7 @@ The fonts that I used for the site were:
 - On desktop they are displayed horizontially and on tablets and mobiles they are display vertically.
   
 ![coaches section of the homepage](readme-docs/images/coaches.png)
+- - -
 
 ### Membership and opening hours
 - We made a rectangle that stretches 80% of the page and is centered.
@@ -76,6 +80,7 @@ The fonts that I used for the site were:
 - The membership and opening hours section can be accessed from any page by clicking on the membership tab on the navigation bar.
    
 ![Membership and opeing hours on the home page.](readme-docs/images/membership.png)
+- - -
 
 ### Footer
 - The footer is found at the bottom of each page and responsive for tablet and mobile too.
@@ -83,6 +88,7 @@ The fonts that I used for the site were:
 - When any of the icons are clicked the social media site opens on a seperate Tab, this way the user still has the Fitness 365 website open so they can easily navigate back to it.  
 
 ![Footer which is at the bottom of every page.](readme-docs/images/footer.png) 
+- - -
 
 ### Gallery
 - This page shows images of what the gym looks like, so the user can get a feel for what the gym has to offer and how it is layed out.
@@ -90,6 +96,7 @@ The fonts that I used for the site were:
 - On destops and laptops, images are 3 abreast, on device under 1280px they are 2 and on devices less thean 764px it is one image centered. 
   
 ![Galley photo](readme-docs/images/gallery.png)  
+- - -
 
  ### Contact Us page
 - On the contact us page we have a form that a user can use to contact the gym with any query they have.
@@ -98,7 +105,7 @@ The fonts that I used for the site were:
   
 ![contact form on the contact us page](readme-docs/images/form.png)  
 ![embedded map with the location of the gym](readme-docs/images/map.png)  
- 
+- - - 
 
 ## Technologies Used:
 
