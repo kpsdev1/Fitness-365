@@ -4,6 +4,8 @@ This is a website for Fitness 365, a gym based in the heart of Limerick City, Ir
 
 ![Am i responsive image of the homepage](readme-docs/images/amiresponsive.png)
 
+- - -
+
  ## UX Design:
 
 ### Site Wireframes
@@ -122,6 +124,7 @@ The technologies that were used to create the site were:
 - JavaScript which was just used for the Navigation
 - Balsamiq was used to create the wireframes
 - Adobe Photoshop was used to resize some of the images
+- - -
 
 ## Testing:
 
