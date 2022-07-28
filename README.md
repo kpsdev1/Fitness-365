@@ -21,15 +21,18 @@ Below are the wireframes for Fitness 365 which were created using Balsamiq.
 ![This is a wireframe of the homepage](readme-docs/Wireframes/contact-wireframe.png)
 
 * Just to mention, the membership tab, when clicked brings you to the section of the homepage that has the membership information, hence why i did   not create wireframe for it.
+- - -
 
 ### Color Scheme
  The color scheme for the website was kept simple with black, grey and white which allows for high contrast between the text and background color.
 ![Color schem used fr this site](readme-docs/images/color-pallet.png)
+- - -
 
 ### Fonts
 The fonts that I used for the site were:
 - Allerta Stencil was used for Logo.
 - Athiti was used for the body.
+- - -
 
 ## Features:
 
