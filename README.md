@@ -161,6 +161,11 @@ Below is a list of web browsers on which the site was tested and agin it was com
 ![CSS Validator testing image](readme-docs/images/css-validator.png)
 - - -
 
+### Lighthouse
+- I used Lighthouse in Chrome Dev tools to generate a report thats tests the sites Performance, Accessibility, Best practices and SEO.  
+
+![Lighthouse image](readme-docs/images/lighthouse.png)
+
 ## Deployment:
 
 ## Credits:
