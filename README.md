@@ -30,7 +30,7 @@ Below are the wireframes for Fitness 365 which were created using Balsamiq.
 ![Color schem used fr this site](readme-docs/images/color-pallet.png)
 - - -
 
-### Fonts
+### Typography
 The fonts that I used for the site were:
 - Allerta Stencil was used for Logo.
 - Athiti was used for the body.
@@ -64,7 +64,7 @@ The fonts that I used for the site were:
 ### Text Box area
 - It is a transparent rectangular box with a white border and text in the middle.
 - It is one of the things that catches the users eye at first glance when they reach the page and it gives a little synopsis about the gym.
-- The box floats into the hero about 50px on destop and 30px on smaller devices.
+- The box floats into the hero image about 50px on destop and 30px on smaller devices.
   
 ![Text box section on the homepage](readme-docs/images/text-box.png)
 - - -
@@ -119,25 +119,25 @@ I would also like to add a video to the gallery page that gives a virtual tour o
 
 ## Technologies Used:
 The technologies that were used to create the site were:
-- HTML
-- CSS
-- JavaScript which was just used for the Navigation
-- Balsamiq was used to create the wireframes
-- Adobe Photoshop was used to resize some of the images
+- HTML.
+- CSS.
+- JavaScript which was just used for the Navigation bar.
+- Balsamiq was used to create the wireframes.
+- Adobe Photoshop was used to resize some of the images.
 - - -
 
 ## Testing:
-To make sure the site was fully responsive and compatible with different browsers and device, I tested the site on Multiple devices as well as different browsers. I also ran my code through validators to makes ure there was no code or structural erros.
+To make sure the site was fully responsive and compatible with different browsers and device, I tested the site on Multiple devices as well as different browsers. I also ran my code through validators to makes sure there was no code or structural errors.
 
 ### Devices the site was tested on
 Below is a list of devices which I test the site on and it was compatible with all:
-- IPhone 11
-- Samsung S8
-- Sansung A52
-- Ipad 7
-- Amazon Fire
-- Dell Inspiron
-- Dell S2722DC monitor  
+- IPhone 11.
+- Samsung S8.
+- Sansung A52.
+- Ipad 7.
+- Amazon Fire.
+- Dell Inspiron.
+- Dell S2722DC monitor.
   
 ### Web browsers the site was tested on  
 Below is a list of web browsers on which the site was tested and agin it was compatible with all:
@@ -145,6 +145,19 @@ Below is a list of web browsers on which the site was tested and agin it was com
 - Microsoft Edge
 - Firefox
 - Safari
+
+### Validator testing 
+**HTML** 
+- Each HTML page was tested for any sytax errors by running the code through the W3C validator which can be found [here](https://validator.w3.org/).
+- The result was that there were no errors found for each page.  
+
+![HTML Validator testing image of each of the sites page](readme-docs/images/html-validator.png)
+  
+**CSS**
+- The CSS file was tested for any errors by running the code through the W3C Jiqsaw validator which can be found [here](https://jigsaw.w3.org/css-validator/).
+- The result also returned that there was no errors.  
+
+![CSS Validator testing image](readme-docs/images/css-validator.png)
 
 
 ## Deployment:
