@@ -145,6 +145,7 @@ Below is a list of web browsers on which the site was tested and agin it was com
 - Microsoft Edge
 - Firefox
 - Safari
+- - -
 
 ### Validator testing 
 **HTML** 
@@ -158,7 +159,7 @@ Below is a list of web browsers on which the site was tested and agin it was com
 - The result also returned that there was no errors.  
 
 ![CSS Validator testing image](readme-docs/images/css-validator.png)
-
+- - -
 
 ## Deployment:
 
