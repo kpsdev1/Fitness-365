@@ -165,7 +165,12 @@ Below is a list of web browsers on which the site was tested and agin it was com
 - I used Lighthouse in Chrome Dev tools to generate a report thats tests the sites Performance, Accessibility, Best practices and SEO.  
 
 ![Lighthouse image](readme-docs/images/lighthouse.png)
-
+- - -
 ## Deployment:
+The site is deployed using github pages. The following steps were used to deploy the site to Github pages:
+- In github on the sites repositiory, click on the **Settings** button.
+- On lefthand side menu. under **code and automation section** select **Pages**.
+- Under **Branch** section, change the dropdown that says **none** to **main**.
+- Then click **Save** and refresh the page, please note that it can take a few minutes for the site to be live.
 
 ## Credits:
