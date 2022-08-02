@@ -6,7 +6,7 @@ This is a website for Fitness 365, a gym based in the heart of Limerick City, Ir
 
 - - -
 
-## Table Of Contents
+## Table Of Contents:
 1. [UX Design](#ux-design)
 2. [Features](#features)
 3. [Future Features](#future-features)
@@ -197,7 +197,7 @@ The site is deployed using github pages. The following steps were used to deploy
 - - -
 
 ### Media
-- All the images for this site were taken from the website unsplash, All the images are free to use and this is a great resource for developers. The wesite can be found [here.](https://unsplash.com/).   
+- All the images for this site were taken from the website unsplash, All the images are free to use and this is a great resource for developers. The wesite can be found [here.](https://unsplash.com/)   
 - - -
 
 ## Acknowledgements:
