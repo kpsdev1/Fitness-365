@@ -172,5 +172,24 @@ The site is deployed using github pages. The following steps were used to deploy
 - On lefthand side menu. under **code and automation section** select **Pages**.
 - Under **Branch** section, change the dropdown that says **none** to **main**.
 - Then click **Save** and refresh the page, please note that it can take a few minutes for the site to be live.
+- - -
 
 ## Credits:
+### Content
+- Well Explained's video on youtube allowed me create the Nav bar that was mobile responsive, the video was thorough and easy to code along too. The youtube video where the code for the nav bar was taken can be found [here.](https://www.youtube.com/watch?v=qSp5C0OOMns&ab_channel=WellExplained)
+- Colt Steele's Web Developer bootcamp course on Udemy really helped me to understand how to use flexbox, This course is great resource for anyone interest in full stack developement and can be found [here.](https://www.udemy.com/course/the-web-developer-bootcamp/)
+- w3Schools was great for help to me when I was trying to remember certain syntax or figure out how to do something. Their Sandboxes for HTML and CSS are brilliant as you can play around with snippets of code and also taylor them to your needs.
+- Code institiutes love running project was invaluable as it though me how to go about compleing a project from start to finish and gave some ideas for this site, it also allowed me to use code i had written for this project and taylor it for certain needs, like the footer which I changed around and adapted to use flexbox for the layout instead.
+- Code institues readme template for help with writing of this readme, The template can be found [here.](https://github.com/Code-Institute-Solutions/readme-template)
+- [Google Fonts ](https://fonts.google.com/) for the Typography used on the site.
+- [Font Awsome ](https://fontawesome.com/icons) for the Icons used on this site.
+- - -
+
+### Media
+- All the images for this site were taken from the web site unsplash, Allk the images are free to use and this is a greate resource for developers. The wesite can be found [here](https://unsplash.com/).   
+- - -
+
+## Acknowledgements:
+- I would like to thank my mentor Adegbenga Adeye for all help throughout the project and for being really positive about the course.
+- I would like to thank Code institutes Slack Communtiy as this helped me so mcuh when I got stuck on part of my project and also course chanllenges.
+- I also like to thank our course facilitator Kenan Wright, for answering any course related questions I asked and for porviding us with a weekly study schedule.
