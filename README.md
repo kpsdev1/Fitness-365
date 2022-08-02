@@ -6,6 +6,17 @@ This is a website for Fitness 365, a gym based in the heart of Limerick City, Ir
 
 - - -
 
+## Table Of Contents
+1. [UX Design](#ux-design)
+2. [Features](#features)
+3. [Future Features](#future-features)
+4. [Technologies Used](#technologies-used)
+5. [Testing](#testing)
+6. [Deployment](#deployment)
+7. [Credits](#credits)
+8. [Acknowledgements](#acknowledgements)
+
+
  ## UX Design:
 
 ### Site Wireframes
@@ -176,17 +187,17 @@ The site is deployed using github pages. The following steps were used to deploy
 
 ## Credits:
 ### Content
-- Well Explained's video on youtube allowed me create the Nav bar that was mobile responsive, the video was thorough and easy to code along too. The youtube video where the code for the nav bar was taken can be found [here.](https://www.youtube.com/watch?v=qSp5C0OOMns&ab_channel=WellExplained)
+- Well Explained's video on youtube allowed me create the Nav bar that was mobile responsive, the video was thorough and easy to code along too. The youtube video where the code for the Nav bar was taken can be found [here.](https://www.youtube.com/watch?v=qSp5C0OOMns&ab_channel=WellExplained)
 - Colt Steele's Web Developer bootcamp course on Udemy really helped me to understand how to use flexbox, This course is great resource for anyone interest in full stack developement and can be found [here.](https://www.udemy.com/course/the-web-developer-bootcamp/)
-- w3Schools was great for help to me when I was trying to remember certain syntax or figure out how to do something. Their Sandboxes for HTML and CSS are brilliant as you can play around with snippets of code and also taylor them to your needs.
-- Code institiutes love running project was invaluable as it though me how to go about compleing a project from start to finish and gave some ideas for this site, it also allowed me to use code i had written for this project and taylor it for certain needs, like the footer which I changed around and adapted to use flexbox for the layout instead.
+- w3Schools was great for help to me when I was trying to remember certain syntax or figure out how to do something. Their Sandboxes for HTML and CSS are brilliant as you can play around with snippets of code and also tailor them to your needs.
+- Code institiutes love running project was invaluable as it thought me how to go about compleing a project from start to finish and gave some ideas for this site, it also allowed me to use code I had written for this project and tailor it for certain needs, like the footer which I changed around and adapted to use flexbox for the layout instead.
 - Code institues readme template for help with writing of this readme, The template can be found [here.](https://github.com/Code-Institute-Solutions/readme-template)
 - [Google Fonts ](https://fonts.google.com/) for the Typography used on the site.
 - [Font Awsome ](https://fontawesome.com/icons) for the Icons used on this site.
 - - -
 
 ### Media
-- All the images for this site were taken from the web site unsplash, Allk the images are free to use and this is a greate resource for developers. The wesite can be found [here](https://unsplash.com/).   
+- All the images for this site were taken from the website unsplash, All the images are free to use and this is a great resource for developers. The wesite can be found [here.](https://unsplash.com/).   
 - - -
 
 ## Acknowledgements:
