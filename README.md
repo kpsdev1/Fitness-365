@@ -171,9 +171,10 @@ Below is a list of web browsers on which the site was tested and agin it was com
 - Google Chrome
 - Microsoft Edge
 - Firefox
-- Safari - this was tested using lambdatest realtime browser testing.
-- Brave - this was tested using lambdatest realtime browser testing.
-- Opera - this was tested using lambdatest realtime browser testing.
+- Lambdatest realtime browser testing was used to test the following:
+    * Safari
+    * Brave 
+    * Opera 
 
 - - -
 
