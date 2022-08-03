@@ -19,6 +19,22 @@ This is a website for Fitness 365, a gym based in the heart of Limerick City, Ir
 
  ## UX Design:
 
+ ### User Stories
+
+**First Time Users:**
+ - As a first time user i want to understand what this website is about.
+ - As a first time user i want to find out what this gym has to offer.
+ - As a first time user I want to be able to Navigate through the site easily.
+- As a returning user I want to be able to find the membership prices easily.
+- As a first time user I want to be able to go to the gallery section to see what the Gym looks like inside.
+ -As a first time user i want be able to find out where this business is located.  
+
+**Returning Users:**
+- As a returning user I want to be able to find the opening hours quickly.
+- As a returning user I want to be able to find the membership prices quickly
+- As a first time user i want be able to find the contact section easily.
+- - -
+
 ### Site Wireframes
 Below are the wireframes for Fitness 365 which were created using Balsamiq.
 
