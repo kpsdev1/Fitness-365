@@ -171,7 +171,10 @@ Below is a list of web browsers on which the site was tested and agin it was com
 - Google Chrome
 - Microsoft Edge
 - Firefox
-- Safari
+- Safari - this was tested using lambdatest realtime browser testing.
+- Brave - this was tested using lambdatest realtime browser testing.
+- Opera - this was tested using lambdatest realtime browser testing.
+
 - - -
 
 ### Validator testing 
@@ -203,13 +206,14 @@ The site is deployed using github pages. The following steps were used to deploy
 
 ## Credits:
 ### Content
-- Well Explained's video on youtube allowed me create the Nav bar that was mobile responsive, the video was thorough and easy to code along too. The youtube video where the code for the Nav bar was taken can be found [here.](https://www.youtube.com/watch?v=qSp5C0OOMns&ab_channel=WellExplained)
-- Colt Steele's Web Developer bootcamp course on Udemy really helped me to understand how to use flexbox, This course is great resource for anyone interest in full stack developement and can be found [here.](https://www.udemy.com/course/the-web-developer-bootcamp/)
+- Well Explained's video on youtube allowed me create the Nav bar that was mobile responsive, the video was thorough and easy to code along too. The youtube video where the code for the Nav bar was taken can be found [here](https://www.youtube.com/watch?v=qSp5C0OOMns&ab_channel=WellExplained).
+- Colt Steele's Web Developer bootcamp course on Udemy really helped me to understand how to use flexbox, This course is great resource for anyone interest in full stack developement and can be found [here](https://www.udemy.com/course/the-web-developer-bootcamp/).
 - w3Schools was great for help to me when I was trying to remember certain syntax or figure out how to do something. Their Sandboxes for HTML and CSS are brilliant as you can play around with snippets of code and also tailor them to your needs.
 - Code institiutes love running project was invaluable as it thought me how to go about compleing a project from start to finish and gave some ideas for this site, it also allowed me to use code I had written for this project and tailor it for certain needs, like the footer which I changed around and adapted to use flexbox for the layout instead.
-- Code institues readme template for help with writing of this readme, The template can be found [here.](https://github.com/Code-Institute-Solutions/readme-template)
+- Code institues readme template for help with writing of this readme, The template can be found [here](https://github.com/Code-Institute-Solutions/readme-template).
 - [Google Fonts ](https://fonts.google.com/) for the Typography used on the site.
 - [Font Awsome ](https://fontawesome.com/icons) for the Icons used on this site.
+- Syntax Bytes youtube video for help with the gallery layout, a great short youtube vidoe that is also easy to follow and code along too, the video can be found [here](https://www.youtube.com/watch?v=leoG0qRaFDI&ab_channel=SyntaxByte).
 - - -
 
 ### Media
