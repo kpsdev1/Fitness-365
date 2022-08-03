@@ -60,7 +60,7 @@ body {
 }
 
 /* Active class add for nav */
-.active {
+.active a {
     border-bottom: 2px solid white;
 }
 
