@@ -105,7 +105,7 @@ body {
 }
 
 
-#our-team>h2 {
+#our-team > h2 {
     text-align: center;
     font-size: 1.8em;
 }
@@ -120,14 +120,14 @@ body {
 }
 
 
-.container>div img {
+.container > div img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
 }
 
 
-.container>div {
+.container > div {
     width: 350px;
     height: 250px;
 }
@@ -160,6 +160,30 @@ body {
 .bottompage-container h2 {
     display: flex;
     justify-content: center;
+}
+
+/* Gallery page styles source syntax bytes on youtube */
+#gallery-body {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+#pictures {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 5%;
+    clear: both;
+    margin-top: 2%;
+
+}
+
+
+.image-grid {
+    flex-basis: 33%;
+    padding: 3px;
+    box-sizing: border-box;
 }
 
 
@@ -229,7 +253,7 @@ body {
     padding-left: 5px;
 }
 
-/* form hover effects */
+/* Form hover effects */
 .submit-button:hover {
     background-color: black;
     cursor: pointer;
@@ -278,30 +302,6 @@ iframe {
 }
 
 
-/* Gallery page styles source syntax bytes on youtube */
-#gallery-body {
-    background-color: rgba(0, 0, 0, 0.1);
-}
-
-
-#pictures {
-    width: 80%;
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 5%;
-    clear: both;
-    margin-top: 2%;
-
-}
-
-
-.image-grid {
-    flex-basis: 33%;
-    padding: 3px;
-    box-sizing: border-box;
-}
-
 /* footer style -credit the love running project for help with this */
 .social-media {
     width: 60%;
@@ -326,6 +326,8 @@ iframe {
 
 
 /* media queries */
+
+/* For screens with a width less than 1280px */ 
 @media screen and (max-width: 1280px) {
     /* Text box section on the homepage */
     #text-box {
@@ -358,7 +360,7 @@ iframe {
       }
 }
 
-/* For tablets */
+/* For screens with a width less than 820px */
 @media screen and (max-width: 820px) {
 
     /* Coach section on the home page */
@@ -376,14 +378,8 @@ iframe {
     }
 
 }
-/* For screens less than 764px */
+/* For screens with a width less than 764px */
 @media screen and (max-width: 764px) {
-
-    /* Gallery section */
-    .image-grid {
-        flex-basis: 100%;
-    }
-   
     /*  Text box section on the home page */
     #text-box {
         top: 50px;
@@ -411,6 +407,17 @@ iframe {
    .open-hours {
        margin-top: 5%;
    }
+
+
+    /* Gallery section */
+    #pictures {
+        justify-content: center;
+    }
+
+
+    .image-grid {
+        flex-basis: 100%;
+    }
 
 }
 
@@ -459,3 +466,25 @@ iframe {
     }
 
 }
+
+/* For screens with a width less than 340px */
+@media screen and (max-width: 340px) {
+    /* Text box section on the home page */
+    #text-box {
+        width: 90%;
+    }
+    /* Our Team Section on the home page  */
+    .container > div {
+        width: 90%;
+        
+    }
+    /* Bottom section on the home page */
+    #bottom td {
+        font-size: 1em;
+    }
+
+    /* Text above iframe on contact page */
+    .map-heading {
+        font-size: small;
+    }
+}    
