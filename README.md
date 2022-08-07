@@ -1,6 +1,6 @@
 # Fitness 365
 
-This is a website for Fitness 365, a gym based in the heart of Limerick City, Ireland. Fitness 365 is a fully equipped gym that also runs group classes daily aswell as private one to one training sessions. The website is to inform you about the new gym and to provide as much information as possible about what Fitness 365 offers all the while being easy to navigate.
+This is a website for Fitness 365, a gym based in the heart of Limerick City, Ireland. Fitness 365 is a fully equipped gym that also runs group classes daily as well as private one to one training sessions. The website is to inform you about the new gym and to provide as much information as possible about what Fitness 365 offers all the while being easy to navigate.
 
 ![Am i responsive image of the homepage](readme-docs/images/amiresponsive.png)
   
@@ -32,8 +32,8 @@ This is a website for Fitness 365, a gym based in the heart of Limerick City, Ir
 
 **Returning Users:**
 - As a returning user I want to be able to find the opening hours quickly.
-- As a returning user I want to be able to find the membership prices quickly
-- As a first time user I want be able to find the contact section easily.
+- As a returning user I want to be able to find the busimess social media.
+- As a returning user I want be able to find the contact section easily.
 - - -
 
 ### Site Wireframes
@@ -50,7 +50,7 @@ Below are the wireframes for Fitness 365 which were created using Balsamiq.
  #### Contact Page
 ![This is a wireframe of the homepage](readme-docs/Wireframes/contact-wireframe.png)
 
-* Just to mention, the membership tab, when clicked brings you to the section of the homepage that has the membership information, hence why i did   not create wireframe for it.
+* Just to mention, the membership tab, when clicked brings you to the section of the homepage that has the membership information, hence why I did   not create wireframe for it.
 - - -
 
 ### Color Scheme
@@ -59,7 +59,7 @@ Below are the wireframes for Fitness 365 which were created using Balsamiq.
 - - -
 
 ### Typography
-The fonts that I used for the site were:
+The fonts that were used for this website were:
 - Allerta Stencil was used for Logo.
 - Athiti was used for the body.
 - - -
@@ -68,10 +68,11 @@ The fonts that I used for the site were:
 
 
 ### Navigation Bar
-- The navigarion bar sits at the very top of each page, with the logo displayed at the left hand side, and the links to each page displayed at the left.
+- The navigarion bar sits at the very top of each page, with the logo displayed at the left hand side, and the links to each page displayed at the right.
 - When on a mobile or tablet the the links change to a burger menu that when click shows all page links. 
-- The colors used were a black background and white text to make the Nav bar stand out and be clearly visible. 
-- The page you are currently on displays a white line underneath.
+- The colors used were, a black background and white text to make the Nav bar stand out and be clearly visible. 
+- The page you are currently on displays a white line underneath and also when you hover the mouse over another page a white line will also appear underneath.
+
 
 ![Nav bar for desktop](readme-docs/images/nav.png)
 
@@ -98,8 +99,8 @@ The fonts that I used for the site were:
 - - -
 
 ### Coaches
-- This is the main section of the home page as it provides your infor mation about the coaches.
-- In this section we have images of the 3 coaches with a bit about them underneath.
+- This is the main section of the home page as it provides your information about the coaches.
+- In this section we have images of the 3 coaches with a bit of information about them underneath the images.
 - On desktop they are displayed horizontially and on tablets and mobiles they are display vertically.
   
 ![coaches section of the homepage](readme-docs/images/coaches.png)
@@ -118,14 +119,14 @@ The fonts that I used for the site were:
 ### Footer
 - The footer is found at the bottom of each page and responsive for tablet and mobile too.
 - It displays 4 icons for the biggest scoial media platfoms today, Twitter, Facebook, Youtube and Instagram.
-- When any of the icons are clicked the social media site opens on a seperate Tab, this way the user still has the Fitness 365 website open so they can easily navigate back to it.  
+- When any of the icons are clicked the social media site opens on a seperate tab, this way the user still has the Fitness 365 website open so they can easily navigate back to it.  
 
 ![Footer which is at the bottom of every page.](readme-docs/images/footer.png) 
 - - -
 
 ### Gallery
 - This page shows images of what the gym looks like, so the user can get a feel for what the gym has to offer and how it is layed out.
-- The gallery is one of the main pages people will check out to see what the gym looks like inside so we tried to display each section with equipment clearly.
+- The gallery is one of the main pages people will check out, to see what the gym looks like inside so we tried to display each section with equipment clearly.
 - On destops and laptops, images are 3 abreast, on device under 1280px they are 2 and on devices less thean 764px it is one image centered. 
   
 ![Galley photo](readme-docs/images/gallery.png)  
@@ -133,15 +134,16 @@ The fonts that I used for the site were:
 
  ### Contact Us page
 - On the contact us page we have a form that a user can use to contact the gym with any query they have.
-- The form takes the input for name, email , phone number and also the message that they want to submit.
-- Below the form you will find the gym location with on an embedded google maps, the user can also view the map on a seperat page by click view larger map, which will take them to google maps, where they can get directions if they want.
+- The form takes the input for name, email, phone number and also the message that they want to submit.
+- When submitted correctly the user will see a message that their from has been submitted correctly and that they can click on a link to retun to the home page.
+- Below the form you will find the gym location with on an embedded google maps, the user can also view the map on a seperate page by click view larger map, which will take them to google maps, where they can get directions to the gym if needs be.
   
 ![contact form on the contact us page](readme-docs/images/form.png)  
 ![embedded map with the location of the gym](readme-docs/images/map.png)  
 - - - 
 
 ## Future Features:
-In the future I would like to add a **Join now** button under the membership shection that when click will take th user to a secure payment page that allows the to purchse membership, This would need to be implemented through a secure third party payment site like paypal.
+In the future I would like to add a **Join now** button under the membership section that when clicked will take the user to a secure payment page that allows the to purchse membership, This would need to be implemented through a secure third party payment site like paypal.
 I would also like to add a video to the gallery page that gives a virtual tour of the gym so that users can get get a better view of the gym and how it is layed out.
 - - -
 
@@ -158,7 +160,7 @@ The technologies that were used to create the site were:
 To make sure the site was fully responsive and compatible with different browsers and device, I tested the site on Multiple devices as well as different browsers. I also ran my code through validators to makes sure there was no code or structural errors.
 
 ### Devices the site was tested on
-Below is a list of devices which I test the site on and it was compatible with all:
+Below is a list of devices which I tested the site on and it was compatible with all:
 - IPhone 11.
 - Samsung S8.
 - Sansung A52.
@@ -168,7 +170,7 @@ Below is a list of devices which I test the site on and it was compatible with a
 - Dell S2722DC monitor.
   
 ### Web browsers the site was tested on  
-Below is a list of web browsers on which the site was tested and agin it was compatible with all:
+Below is a list of web browsers on which the site was tested and again it was compatible with all:
 - Google Chrome
 - Microsoft Edge
 - Firefox
@@ -211,11 +213,11 @@ The site is deployed using github pages. The following steps were used to deploy
 - Well Explained's video on youtube allowed me create the Nav bar that was mobile responsive, the video was thorough and easy to code along too. The youtube video where the code for the Nav bar was taken can be found [here](https://www.youtube.com/watch?v=qSp5C0OOMns&ab_channel=WellExplained).
 - Colt Steele's Web Developer bootcamp course on Udemy really helped me to understand how to use flexbox, This course is great resource for anyone interest in full stack developement and can be found [here](https://www.udemy.com/course/the-web-developer-bootcamp/).
 - w3Schools was great for help to me when I was trying to remember certain syntax or figure out how to do something. Their Sandboxes for HTML and CSS are brilliant as you can play around with snippets of code and also tailor them to your needs.
-- Code institiutes love running project was invaluable as it thought me how to go about compleing a project from start to finish and gave some ideas for this site, it also allowed me to use code I had written for this project and tailor it for certain needs, like the footer which I changed around and adapted to use flexbox for the layout instead.
+- Code institiutes love running project was invaluable as it thought me how to go about completing a project from start to finish and gave me some ideas for this site, it also allowed me to use code I had written for this project and tailor it for certain needs, like the footer which I changed around and adapted to use flexbox for the layout instead.
 - Code institues readme template for help with writing of this readme, The template can be found [here](https://github.com/Code-Institute-Solutions/readme-template).
 - [Google Fonts ](https://fonts.google.com/) for the Typography used on the site.
 - [Font Awsome ](https://fontawesome.com/icons) for the Icons used on this site.
-- Syntax Bytes youtube video for help with the gallery layout, a great short youtube vidoe that is also easy to follow and code along too, the video can be found [here](https://www.youtube.com/watch?v=leoG0qRaFDI&ab_channel=SyntaxByte).
+- Syntax Bytes youtube video for help with the gallery layout, a great short youtube video that is also easy to follow and code along too, the video can be found [here](https://www.youtube.com/watch?v=leoG0qRaFDI&ab_channel=SyntaxByte).
 - - -
 
 ### Media
@@ -224,5 +226,5 @@ The site is deployed using github pages. The following steps were used to deploy
 
 ## Acknowledgements:
 - I would like to thank my mentor Adegbenga Adeye for all help throughout the project and for being really positive about the course.
-- I would like to thank Code institutes Slack Communtiy as this helped me so mcuh when I got stuck on part of my project and also course chanllenges.
+- I would like to thank Code institutes Slack Communtiy as this helped me so much when I got stuck on part of my project and also course challenges.
 - I also like to thank our course facilitator Kenan Wright, for answering any course related questions I asked and for porviding us with a weekly study schedule.
