@@ -201,6 +201,12 @@ Below is a list of web browsers on which the site was tested and again it was co
 
 ![Lighthouse image](readme-docs/images/lighthouse.png)
 - - -
+
+## Bugs
+- When I first put the Gallery page through the W3C validator, it was giving an error stating that I was using a section tag without having a heading tag inside it for the gallery images. To rectify this I changed the section tag to a div tag and when put through the validator it showed no errors or warnings.
+- When testing the site on an IPhone 7 the text box area on the home page had the text ontop of the bottom line of the box, even though when I tested with Chrome dev tools and selected **IPhone 6/7/8** the text box area had space below the text and the bottom of the box. To fix this I increased the width of the text box by 2% on small devices and it solved the overflowing issue
+
+- - -
 ## Deployment:
 The site is deployed using github pages. The following steps were used to deploy the site to Github pages:
 - In github on the sites repositiory, click on the **Settings** button.
