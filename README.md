@@ -168,6 +168,7 @@ Below is a list of devices which I tested the site on and it was compatible with
 - Amazon Fire.
 - Dell Inspiron.
 - Dell S2722DC monitor.
+- IPhone 7.
   
 ### Web browsers the site was tested on  
 Below is a list of web browsers on which the site was tested and again it was compatible with all:
