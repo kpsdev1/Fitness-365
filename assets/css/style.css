@@ -426,10 +426,17 @@ iframe {
 @media screen and (max-width: 640px) {
 
     /* Navigation   */
+    .navbar {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        z-index: 1;  
+    }
+    
     .navbar ul {
         flex-wrap: wrap;
-
     }
+
     .navbar-toggle {
         display: block;
     }
@@ -449,6 +456,7 @@ iframe {
 
     /* Hero image section */
     #hero {
+        margin-top: 63px;
         max-height: 150px;
         background-position: center center;
         background-size: cover;
@@ -464,7 +472,11 @@ iframe {
         width: 80%;
         
     }
-
+    #pictures {
+        margin-top: 80px;
+    }
+    
+   
 }
 
 /* For screens with a width less than 340px */
