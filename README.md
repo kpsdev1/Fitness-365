@@ -32,7 +32,7 @@ This is a website for Fitness 365, a gym based in the heart of Limerick City, Ir
 
 **Returning Users:**
 - As a returning user I want to be able to find the opening hours quickly.
-- As a returning user I want to be able to find the busimess social media.
+- As a returning user I want to be able to find the business's social media.
 - As a returning user I want be able to find the contact section easily.
 - - -
 
@@ -93,22 +93,22 @@ The fonts that were used for this website were:
 ### Text Box area
 - It is a transparent rectangular box with a white border and text in the middle.
 - It is one of the things that catches the users eye at first glance when they reach the page and it gives a little synopsis about the gym.
-- The box floats into the hero image about 50px on destop and 30px on smaller devices.
+- The box floats into the hero image about 50px on desktop and 30px on smaller devices.
   
 ![Text box section on the homepage](readme-docs/images/text-box.png)
 - - -
 
 ### Coaches
-- This is the main section of the home page as it provides your information about the coaches.
+- This is the main section of the home page as it provides you with information about the coaches.
 - In this section we have images of the 3 coaches with a bit of information about them underneath the images.
-- On desktop they are displayed horizontially and on tablets and mobiles they are display vertically.
+- On desktop the images and text are displayed horizontially and on tablets and mobiles they are displayed vertically.
   
 ![coaches section of the homepage](readme-docs/images/coaches.png)
 - - -
 
 ### Membership and opening hours
-- We made a rectangle that stretches 80% of the page and is centered.
-- The background color is white and the text is black for contrast.
+- It is a rectangle that stretches 80% of the page and is centered.
+- The background color is white and the text is black to provide contrast.
 - There is a black side border at each side to make it stand out and make it more visually appealing.
 - Here you can find the membership prices on the left hand side and the opening hours on the right.
 - The membership and opening hours section can be accessed from any page by clicking on the membership tab on the navigation bar.
@@ -126,24 +126,24 @@ The fonts that were used for this website were:
 
 ### Gallery
 - This page shows images of what the gym looks like, so the user can get a feel for what the gym has to offer and how it is layed out.
-- The gallery is one of the main pages people will check out, to see what the gym looks like inside so we tried to display each section with equipment clearly.
-- On destops and laptops, images are 3 abreast, on device under 1280px they are 2 and on devices less thean 764px it is one image centered. 
+- The gallery is one of the main pages people will check out, to see what the gym looks like inside so we tried to display each section of the gym with equipment clearly.
+- On destops and laptops, images are 3 abreast, on devices under 1280px they are 2 and on devices less than 764px it is one image centered. 
   
 ![Galley photo](readme-docs/images/gallery.png)  
 - - -
 
  ### Contact Us page
 - On the contact us page we have a form that a user can use to contact the gym with any query they have.
-- The form takes the input for name, email, phone number and also the message that they want to submit.
+- The form takes the input for name, email, phone number and also the message that they want to send.
 - When submitted correctly the user will see a message that their from has been submitted correctly and that they can click on a link to retun to the home page.
-- Below the form you will find the gym location with on an embedded google maps, the user can also view the map on a seperate page by click view larger map, which will take them to google maps, where they can get directions to the gym if needs be.
+- Below the form you will find the gym location embedded with google maps, the user can also view the map on a seperate page by clicking view larger map, which will take them to google maps, where they can get directions to the gym if needs be.
   
 ![contact form on the contact us page](readme-docs/images/form.png)  
 ![embedded map with the location of the gym](readme-docs/images/map.png)  
 - - - 
 
 ## Future Features:
-In the future I would like to add a **Join now** button under the membership section that when clicked will take the user to a secure payment page that allows the to purchse membership, This would need to be implemented through a secure third party payment site like paypal.
+In the future I would like to add a **Join now** button under the membership section that when clicked will take the user to a secure payment page that allows them to purchase membership, This would need to be implemented through a secure third party payment site like paypal.
 I would also like to add a video to the gallery page that gives a virtual tour of the gym so that users can get get a better view of the gym and how it is layed out.
 - - -
 
@@ -203,7 +203,7 @@ Below is a list of web browsers on which the site was tested and again it was co
 - - -
 
 ## Bugs
-- When I first put the Gallery page through the W3C validator, it was giving an error stating that I was using a section tag without having a heading tag inside it for the gallery images. To rectify this I changed the section tag to a div tag and when put through the validator it showed no errors or warnings.
+- When I first put the Gallery page through the W3C validator, it was giving an error stating that I was using a section tag without having a heading tag inside of it for the gallery images. To rectify this I changed the section tag to a div tag and when put through the validator it showed no errors or warnings.
 - When testing the site on an IPhone 7 the text box area on the home page had the text overflow onto the bottom edge of the box, even though when I tested with Chrome dev tools and selected **IPhone 6/7/8** the text box area had space below the text and the bottom of the box. To fix this I increased the width of the text box by 2% on small devices and it solved the overflowing issue.
 
 - - -
@@ -218,9 +218,9 @@ The site is deployed using github pages. The following steps were used to deploy
 ## Credits:
 ### Content
 - Well Explained's video on youtube allowed me create the Nav bar that was mobile responsive, the video was thorough and easy to code along too. The youtube video where the code for the Nav bar was taken can be found [here](https://www.youtube.com/watch?v=qSp5C0OOMns&ab_channel=WellExplained).
-- Colt Steele's Web Developer bootcamp course on Udemy really helped me to understand how to use flexbox, This course is great resource for anyone interest in full stack developement and can be found [here](https://www.udemy.com/course/the-web-developer-bootcamp/).
-- w3Schools was great for help to me when I was trying to remember certain syntax or figure out how to do something. Their Sandboxes for HTML and CSS are brilliant as you can play around with snippets of code and also tailor them to your needs.
-- Code institiutes love running project was invaluable as it thought me how to go about completing a project from start to finish and gave me some ideas for this site, it also allowed me to use code I had written for this project and tailor it for certain needs, like the footer which I changed around and adapted to use flexbox for the layout instead.
+- Colt Steele's Web Developer bootcamp course on Udemy really helped me to understand how to use flexbox, This course is great resource for anyone interested in full stack developement and can be found [here](https://www.udemy.com/course/the-web-developer-bootcamp/).
+- w3Schools was great help to me when I was trying to remember certain syntax or figure out how to do something. Their Sandboxes for HTML and CSS are brilliant as you can play around with snippets of code and also tailor them to your needs.
+- Code institiutes love running project was invaluable as it taught me how to go about completing a project from start to finish and gave me some ideas for this site, it also allowed me to use code I had written for this project and tailor it for certain needs, like the footer which I changed around and adapted to use flexbox for the layout instead.
 - Code institues readme template for help with writing of this readme, The template can be found [here](https://github.com/Code-Institute-Solutions/readme-template).
 - [Google Fonts ](https://fonts.google.com/) for the Typography used on the site.
 - [Font Awsome ](https://fontawesome.com/icons) for the Icons used on this site.
@@ -228,10 +228,10 @@ The site is deployed using github pages. The following steps were used to deploy
 - - -
 
 ### Media
-- All the images for this site were taken from the website unsplash, All the images are free to use and this is a great resource for developers. The wesite can be found [here.](https://unsplash.com/)   
+- All the images for this site were taken from the website unsplash, All the images are free to use and this is a great resource for developers. The website can be found [here.](https://unsplash.com/)   
 - - -
 
 ## Acknowledgements:
 - I would like to thank my mentor Adegbenga Adeye for all help throughout the project and for being really positive about the course.
-- I would like to thank Code institutes Slack Communtiy as this helped me so much when I got stuck on part of my project and also course challenges.
-- I also like to thank our course facilitator Kenan Wright, for answering any course related questions I asked and for porviding us with a weekly study schedule.
+- I would like to thank Code institutes Slack Communtiy as this helped me so much when I got stuck on part of my project and also with course challenges.
+- I would also like to thank our chort facilitators Kenan Wright and Kasia Bogucka, for answering any course related questions I asked and for porviding us with a weekly study schedule.
