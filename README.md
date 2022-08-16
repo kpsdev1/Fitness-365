@@ -51,6 +51,8 @@ Below are the wireframes for Fitness 365 which were created using Balsamiq.
 ![This is a wireframe of the homepage](readme-docs/Wireframes/contact-wireframe.png)
 
 * Just to mention, the membership tab, when clicked brings you to the section of the homepage that has the membership information, hence why I did   not create wireframe for it.
+
+[Back to the top](#fitness-365)
 - - -
 
 ### Color Scheme
@@ -122,6 +124,8 @@ The fonts that were used for this website were:
 - When any of the icons are clicked the social media site opens on a seperate tab, this way the user still has the Fitness 365 website open so they can easily navigate back to it.  
 
 ![Footer which is at the bottom of every page.](readme-docs/images/footer.png) 
+
+[Back to the top](#fitness-365)
 - - -
 
 ### Gallery
@@ -154,6 +158,8 @@ The technologies that were used to create the site were:
 - JavaScript which was just used for the Navigation bar.
 - Balsamiq was used to create the wireframes.
 - Adobe Photoshop was used to resize some of the images.
+
+[Back to the top](#fitness-365)
 - - -
 
 ## Testing:
@@ -194,6 +200,8 @@ Below is a list of web browsers on which the site was tested and again it was co
 - The result also returned that there was no errors.  
 
 ![CSS Validator testing image](readme-docs/images/css-validator.png)
+
+[Back to the top](#fitness-365)
 - - -
 
 ### Lighthouse
@@ -235,3 +243,5 @@ The site is deployed using github pages. The following steps were used to deploy
 - I would like to thank my mentor Adegbenga Adeye for all help throughout the project and for being really positive about the course.
 - I would like to thank Code institutes Slack Communtiy as this helped me so much when I got stuck on part of my project and also with course challenges.
 - I would also like to thank our chort facilitators Kenan Wright and Kasia Bogucka, for answering any course related questions I asked and for porviding us with a weekly study schedule.
+
+[Back to the top](#fitness-365)
