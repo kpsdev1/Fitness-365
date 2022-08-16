@@ -158,7 +158,6 @@ The technologies that were used to create the site were:
 - JavaScript which was just used for the Navigation bar.
 - Balsamiq was used to create the wireframes.
 - Adobe Photoshop was used to resize some of the images.
-
 [Back to the top](#fitness-365)
 - - -
 
